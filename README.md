@@ -305,7 +305,3 @@ Pelajari alur ini sampai bisa menjelaskannya tanpa melihat kode:
 > Gunakan proyek ini sebagai bahan belajar. Dosen dapat meminta Anda menjelaskan dan mengubah kode secara langsung,
 > jadi pastikan Anda memahami setiap bagian, dan ikuti aturan mata kuliah mengenai penggunaan alat bantu AI/atribusi.
 
-## Screenshots
-
-Tambahkan screenshot hasil run Anda di folder `docs/screenshots/` lalu tautkan di sini:
-Login, Dashboard, Daftar Produk, Form Penjualan, Detail Penjualan, Stok Rendah, hasil `php artisan test`.
